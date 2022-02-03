@@ -1,0 +1,168 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@jagangngng57 
+Aakashdeveloper
+/
+feb_react_mrng_22
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+feb_react_mrng_22/extra
+@Aakashdeveloper
+Aakashdeveloper install
+Latest commit 65926c4 yesterday
+ History
+ 1 contributor
+127 lines (102 sloc)  2.13 KB
+   
+https://code.visualstudio.com/download (install)
+https://nodejs.org/en/ (install)
+https://git-scm.com/downloads (install)
+https://www.postman.com/ (install)
+https://github.com/( create account)
+https://github.com/Aakashdeveloper (follow)
+
+(add to chrome)
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
+//Extensions
+> TabNine
+> vscode-icons
+> git history
+> git Lens
+> spellCheck
+> eslint
+
+
+html
+css
+bootstrap 3,4,5
+Npm
+React = 3
+Mock API
+json-server
+React_hooks -1
+React-JWT(Login Logout)-2
+Github
+Deployment
+-> MERN
+-> Aws
+-> heroku
+-> Docker
+-> Nginx
+-> Netlify
+HOC
+React-GraphQL - 1 
+Basic React Native- 1
+React-Redux - 1
+React-Redux - 1
+React-PWA - 1
+Testing Jest Enzime
+///////Walkthrough///////
+React-Saga -1
+React-with-typescript-1
+--------NOT Backend--------------
+API
+GraphQL
+Login/Logout
+
+
+///////////////////////////
+React
+> react is a frontend lib/framework which
+help to build single page application using components
+
+open source
+> any body can contribute to development
+
+npm > node package manager
+
+
+JSON > JavaScript Object Notation
+[
+    {
+        "name":"John",
+        "age":10
+    },
+    {
+        "name":"Amit",
+        "age":20
+    }
+]
+
+
+package.json
+> Entry point to application
+> MetaData(name,description,version,Author)
+> script(start,test,build)
+> packages
+
+
+///step to generate package.json//////
+* NodeJs must be install in laptop
+> open the cmd/terminal go inside the folder
+> npm init
+> Answer all question
+> type "yes"
+
+
+///step to install packages//////
+* NodeJs must be install in laptop
+> open the cmd/terminal go inside the folder
+> npm i packagesname
+
+
+setup of reactapp
+///////
+* NodeJs must be install in laptop
+> open the cmd/terminal go inside the folder
+> npx create-react-app appname
+
+
+#window
+###Only One time 
+> open the cmd as administrator
+> npm i -g create-react-app
+
+###Everytime you need new app
+> open cmd
+> create-react-app appname
+
+
+#mac/linux
+###Only One time 
+> open the terminal
+> sudo npm i -g create-react-app
+
+###Everytime you need new app
+> open terminal
+> create-react-app appname
+
+//////setup of run reactapp/////
+> open the cmd/terminal
+> go inside the app folder
+> npm start
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
